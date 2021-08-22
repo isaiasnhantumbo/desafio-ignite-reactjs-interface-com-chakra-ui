@@ -1,0 +1,184 @@
+{
+  "continent": [
+    {
+      "id": "africa",
+      "name": "Africa",
+      "shortDescription": "O berço da humanidade",
+      "continentImage": "https://images.unsplash.com/photo-1591962170368-84030833382e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80",
+      "cityBannerImage": "https://images.unsplash.com/photo-1525945995886-0ede2bd49ab6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "description": "A África é o terceiro continente mais extenso (depois da Ásia e da América) com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. ",
+      "countries": "54",
+      "languages": "1250",
+      "city": "56",
+      "cities": [
+        {
+          "countryName": "Moçambique",
+          "name": "Maputo",
+          "flag": "https://www.mozambique.co.za/images/mozambique-national-flag-590x390.png",
+          "image": "https://www.segurospromo.com.br/blog/wp-content/uploads/2019/04/viagem-a-africa-mocambique.jpg"
+        },
+        {
+          "countryName": "África do Sul",
+          "name": "Mpumalanga",
+          "flag": "http://noticias.mozmassoko.com/wp-content/uploads/2015/04/Bandeira-da-Africa-do-Sul-300x200.png",
+          "image": "https://www.segurospromo.com.br/blog/wp-content/uploads/2019/04/viagem-a-africa-do-sul.jpg"
+        },
+        {
+          "countryName": "Zimbabwe",
+          "name": "Harare",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/125px-Flag_of_Zimbabwe.svg.png",
+          "image": "https://www.segurospromo.com.br/blog/wp-content/uploads/2019/04/viagem-a-africa-zimbabwe.jpg"
+        },
+        {
+          "countryName": "Marrocos",
+          "name": "Deserto do Saara",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/125px-Flag_of_Morocco.svg.png",
+          "image": "https://www.segurospromo.com.br/blog/wp-content/uploads/2019/04/viagem-a-africa-marrocos.jpg"
+        },
+        {
+          "countryName": "Egito",
+          "name": "Cairo",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/125px-Flag_of_Egypt.svg.png",
+          "image": "https://www.segurospromo.com.br/blog/wp-content/uploads/2019/04/viagem-a-africa-egito.jpg"
+        }
+      ]
+    },
+    {
+      "id": "america-do-sul",
+      "name": "América do Sul",
+      "shortDescription": "A América do Sul é um continente que compreende a porção meridional da América",
+      "continentImage": "https://images.unsplash.com/photo-1570142802197-3e357656bdc1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1548&q=80",
+      "cityBannerImage": "https://images.unsplash.com/photo-1516306580123-e6e52b1b7b5f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1998&q=80",
+      "description": "A América do Sul é um continente que compreende a porção meridional da América. Também é considerada um subcontinente do continente americano. A sua extensão é de 17 819 100 km², abrangendo 12% da superfície terrestre e 6% da população mundial.",
+      "countries": "12",
+      "languages": "9",
+      "city": "20",
+      "cities": [
+        {
+          "countryName": "México",
+          "name": "Tijuana",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/125px-Flag_of_Mexico.svg.png",
+          "image": "https://www.buenasdicas.com/wp-content/uploads/2018/06/praia-mexico-cancun-1024x420.jpg"
+        },
+        {
+          "countryName": "Brasil",
+          "name": "São Paulo",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/125px-Flag_of_Brazil.svg.png",
+          "image": "https://www.buenasdicas.com/wp-content/uploads/2018/05/lencois-maranhenses-dicas.jpeg"
+        },
+        {
+          "countryName": "Argentina",
+          "name": "Buenos Aires",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/125px-Flag_of_Argentina.svg.png",
+          "image": "https://www.buenasdicas.com/wp-content/uploads/2018/06/buenas-aires-puerto-madero-1024x576.jpg"
+        }
+      ]
+    },
+    {
+      "id": "america-do-norte",
+      "name": "América do Norte",
+      "shortDescription": "A América do Norte está localizada no extremo norte das Américas",
+      "continentImage": "https://images.unsplash.com/photo-1512250431446-d0b4b57b27ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1355&q=80",
+      "cityBannerImage": "https://images.unsplash.com/photo-1592846642494-bcf7ea25abb8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1953&q=80",
+      "description": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América.",
+      "countries": "3",
+      "languages": "6",
+      "city": "20",
+      "cities": [
+        {
+          "countryName": "Canadá",
+          "name": "Toronto",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/125px-Flag_of_Canada_%28Pantone%29.svg.png",
+          "image": "https://www.segurospromo.com.br/blog/wp-content/uploads/2019/07/destino-america-do-norte-canada-toronto.jpg"
+        },
+        {
+          "countryName": "Estados Unidos",
+          "name": "Miami",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png",
+          "image": "https://www.segurospromo.com.br/blog/wp-content/uploads/2019/07/destino-america-do-norte-mexico-miami.jpg"
+        }
+      ]
+    },
+    {
+      "id": "asia",
+      "name": "Ásia",
+      "shortDescription": "O maior dos continentes",
+      "continentImage": "https://images.unsplash.com/photo-1520602628767-f620d8d97c6c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "cityBannerImage": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80",
+      "description": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial.",
+      "countries": "50",
+      "languages": "7",
+      "city": "20",
+      "cities": [
+        {
+          "countryName": "Emirados Árabes Unidos",
+          "name": "Dubai",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/125px-Flag_of_the_United_Arab_Emirates.svg.png",
+          "image": "https://www.remessaonline.com.br/blog/wp-content/uploads/2019/11/paises-da-asia-emirados-dubai-1024x683.jpeg.webp"
+        },
+        {
+          "countryName": "Tailândia",
+          "name": "Chiang Ma",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/125px-Flag_of_Thailand.svg.png",
+          "image": "https://www.remessaonline.com.br/blog/wp-content/uploads/2019/11/paises-da-asia-tailandia-1-1024x683.jpeg.webp"
+        },
+        {
+          "countryName": "Japão",
+          "name": "Tokyo",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/125px-Flag_of_Japan.svg.png",
+          "image": "https://www.remessaonline.com.br/blog/wp-content/uploads/2019/11/paises-da-asia-tokyo-1024x683.jpeg.webp"
+        }
+      ]
+    },
+    {
+      "id": "europa",
+      "name": "Europa",
+      "shortDescription": "O continente mais Antigo",
+      "continentImage": "https://images.unsplash.com/photo-1618738359678-829ddf116323?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "cityBannerImage": "https://images.unsplash.com/photo-1600255940960-9b6d84fcdc84?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countries": "50",
+      "languages": "60",
+      "city": "27",
+      "cities": [
+        {
+          "countryName": "França",
+          "name": "Paris",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/125px-Flag_of_France.svg.png",
+          "image": "https://www.europadestinos.com.br/wp-content/uploads/2018/05/fran%C3%A7a-foto.jpg"
+        },
+        {
+          "countryName": "Espanha",
+          "name": "Barcelona",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/125px-Flag_of_Spain.svg.png",
+          "image": "https://images.unsplash.com/photo-1587368062478-e804f5e2a55a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2082&q=80"
+        }
+      ]
+    },
+    {
+      "id": "oceania",
+      "name": "Oceania",
+      "shortDescription": "O continente mais Antigo",
+      "continentImage": "https://images.unsplash.com/photo-1572887069555-104ad56147e9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1267&q=80",
+      "cityBannerImage": "https://images.unsplash.com/photo-1624066401975-3a2953fda323?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "description": "Oceania ou Oceânia é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico (Polinésia, Melanésia e Micronésia). O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville. O termo é usado hoje em vários idiomas para designar uma região geográfica e política que compreende o continente da Austrália e ilhas do Oceano Pacífico adjacentes",
+      "countries": "16",
+      "languages": "18",
+      "city": "27",
+      "cities": [
+        {
+          "countryName": "Austrália",
+          "name": "Sydney",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/125px-Flag_of_Australia_%28converted%29.svg.png",
+          "image": "https://www.queroviajarmais.com/wp-content/webp-express/webp-images/uploads/2020/07/regioes-oceania-1024x683.jpg.webp"
+        },
+        {
+          "countryName": "Nova Zelândia",
+          "name": "Auckland",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/125px-Flag_of_New_Zealand.svg.png",
+          "image": "https://www.queroviajarmais.com/wp-content/webp-express/webp-images/uploads/2020/07/mapa-oceania-1024x669.jpg.webp"
+        }
+      ]
+    }
+  ]
+}
