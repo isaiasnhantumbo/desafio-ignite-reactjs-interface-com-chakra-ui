@@ -1,4 +1,3 @@
-import axios from 'axios';
 import useSWR from 'swr';
 import { useState } from 'react';
 import { useRouter } from 'next/router';
@@ -17,6 +16,7 @@ import { CityCard } from '../../components/Continent/CityCard';
 import { CityBanner } from '../../components/Continent/CityBanner';
 import { CountryInfoAdditional } from '../../components/Continent/CountryInfoAdditional';
 import { Header } from '../../components/Header';
+import { api } from '../../services/api';
 
 interface City {
   countryName: string;
@@ -42,9 +42,9 @@ export default function Continent() {
   const { id } = router.query;
 
   const fetcher = async (url: string) =>
-    axios.get(url).then((response) => setContinent(response.data));
+    api.get(url).then((response) => setContinent(response.data));
 
-  useSWR(`http://localhost:3333/continent/${id}`, fetcher, {
+  useSWR(`/continent/${id}`, fetcher, {
     loadingTimeout: 8000,
   });
 

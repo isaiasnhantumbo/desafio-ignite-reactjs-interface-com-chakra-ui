@@ -1,11 +1,11 @@
 import { Box, Flex, Heading, Skeleton, SkeletonText } from '@chakra-ui/react';
-import axios from 'axios';
 import { GetStaticProps } from 'next';
 import Head from 'next/head';
 import { ContinentsSlide } from '../components/ContinentsSlide';
 import { Header } from '../components/Header';
 import { Hero } from '../components/Hero';
 import { TravelTypes } from '../components/TravelTypes';
+import { api } from '../services/api';
 
 interface Continent {
   id: string;
@@ -58,7 +58,7 @@ export default function Home({ continents }: HomeProps) {
 }
 
 export const getStaticProps: GetStaticProps = async () => {
-  const response = await axios.get('http://localhost:3333/continent');
+  const response = await api.get('/continent')
 
   const continents = response.data.map((continent) => {
     return {
