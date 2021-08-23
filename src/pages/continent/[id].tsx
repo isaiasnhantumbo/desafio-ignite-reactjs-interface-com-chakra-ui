@@ -52,7 +52,6 @@ export default function Continent() {
     return (
       <Skeleton startColor="highlight" endColor="dark.heading" height="100px" />
     );
-console.log(continent.cities);
 
   return (
     <Box>
