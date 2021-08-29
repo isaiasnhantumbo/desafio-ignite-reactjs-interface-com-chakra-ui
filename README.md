@@ -20,9 +20,7 @@
     <img src ="./.github/print.png" > 
     
 </p>
-<h1 align="center"> 
-<a href="https://desafio-ignite-reactjs-interface-com-chakra-ui.vercel.app">Acessar demonstração</a>
-</h1>
+
 <p align="center">
 O <span>Worldtrip</span> é aplicativo que mostra os principais destinos turisticos de cada continente que foi construindo no desafio do Bootcamp Ignite da Rockeseat na trilha Reactjs.
 </p>
@@ -32,8 +30,12 @@ O <span>Worldtrip</span> é aplicativo que mostra os principais destinos turisti
 <img src ="./.github/print2.png" > 
 </p>
 
+<h1 align="center"> 
 
----
+<a href="https://desafio-ignite-reactjs-interface-com-chakra-ui.vercel.app">Acessar demonstração</a>
+</h1>
+
+
 ## 🛠 Tecnologias usadas
 
 As seguintes ferramentas foram usadas na construção do projeto:
